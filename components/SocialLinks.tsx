@@ -15,7 +15,7 @@ const SocialLinks = () => {
           target="_blank"
         >
           <span className="btn-inner--icon">
-            <i className="fa fa-envelope" />
+            <i className="fa fa-envelope" />sushmashivani@vt.edu
           </span>
         </Button>
       )}
