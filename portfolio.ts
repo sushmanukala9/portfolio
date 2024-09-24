@@ -26,7 +26,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:sushunukala@gmail.com",
+  email: "mailto:hanzla.tauqeer123@gmail.com",
   linkedin: "https://www.linkedin.com/in/sushma-nukala-867a82137/",
   github: "https://github.com/sushmanukala9/",
   instagram: "https://www.instagram.com/su_shi_nu",
