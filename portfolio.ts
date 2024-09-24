@@ -200,8 +200,8 @@ export const seoData: SEODataType = {
   title: "Sushma Nukala",
   description: greetings.description,
   author: "Sushma Nukala",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "/img/icons/common/cloudio.jpeg",
+  url: "https://sushmanukala.netlify.app/",
   keywords: [
     "Sushma",
     "Sushma Nukala",
