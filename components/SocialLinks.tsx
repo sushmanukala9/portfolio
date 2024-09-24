@@ -15,9 +15,12 @@ const SocialLinks = () => {
           target="_blank"
         >
           <span className="btn-inner--icon">
-            <i className="fa fa-envelope" />sushmashivani@vt.edu
+            <i className="fa fa-envelope" />
           </span>
+          <span>sushmashivani@vt.edu</span>
+          <br />
         </Button>
+        
       )}
       {socialLinks.linkedin && (
         <Button
