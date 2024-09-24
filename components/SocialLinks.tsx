@@ -18,7 +18,7 @@ const SocialLinks = () => {
             <i className="fa fa-envelope" />
           </span>
           <span>sushmashivani@vt.edu</span>
-          <br />
+          
         </Button>
         
       )}
