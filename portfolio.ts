@@ -118,14 +118,14 @@ export const experience: ExperienceType[] = [
   {
     role: "Full Stack Web development Intern",
     company: "Kaiser Permanente",
-    companyLogo: "/img/icons/common/meganos.png",
+    companyLogo: "/img/icons/common/kp.jpeg",
     date: "June 2024 - Present",
     desc: "At Kaiser Permanente, as a full-stack web development intern, I independently developed a robust voting tool for employees to elect board members. This tool allows employees to securely cast their votes, and admins can access detailed reports in real-time, including tables and graphs that show the number of votes cast, winning candidates, and voter participation. Admins also have the ability to configure the ballot with specific start and end times, and lock/unlock it during the voting period.For authentication, I integrated Microsoft Active Directory via LDAP, enabling employees to log in using their existing desktop credentials. The application’s frontend is built with React TypeScript, while the backend is powered by ASP.NET Core C#, providing RESTful APIs. Data is stored and managed using MySQL, and the app is deployed through Microsoft IIS for seamless scalability and reliability",
   },
   {
     role: "Software Engineer",
     company: "Ivy Software Development Services",
-    companyLogo: "/img/icons/common/duseca_software_logo.jpeg",
+    companyLogo: "/img/icons/common/ivy.jpeg",
     date: "March 2022 - June 2023",
     desc: "At Ivy Software Development Services, I developed key features for the BETMGM gaming platform (acquired by Entain) using JEE Spring/Spring Boot. One of the critical features I implemented was the Auto Cashout functionality. This feature was designed to automatically cash out winnings for players who became inactive for over a year. If players did not log in after winning, the system would transfer their funds to their accounts and then close their accounts due to inactivity.I was responsible for designing and developing the feature according to the business requirements provided by the analysts. After implementation, I conducted thorough testing to ensure accuracy and functionality before deploying it to both staging and production environments. This project was vital for maintaining regulatory compliance and ensuring proper user management on the platform.",
     // descBullets: [
@@ -135,15 +135,15 @@ export const experience: ExperienceType[] = [
   },
   {
     role: "Software Engineer",
-    company: "Cerner",
-    companyLogo: "/img/icons/common/zrtech.jpeg",
+    company: "Oracle Cerner",
+    companyLogo: "/img/icons/common/cerner.png",
     date: "Jan 2020 - Sept 2021",
     desc: "I enhanced the PowerChart healthcare application by implementing an order priority feature that streamlined the workflow for phlebotomists. This involved designing and implementing complex logic within a C++ MFC-based architecture to optimize task prioritization, ensuring that urgent orders were handled efficiently. I followed the full Software Development Lifecycle (SDLC), from initial code design and analysis through implementation, unit testing, and peer reviews, ultimately deploying the solution to production",
   },
   {
     role: "Software Intern",
     company: "Cloud-IO",
-    companyLogo: "/img/icons/common/bleedAI.jpg",
+    companyLogo: "/img/icons/common/cloudio.jpeg",
     date: "April 2019 - June 2021",
     desc: "I collaborated with Cloudio, a startup, to develop a web-based application designed for the company’s sales data analysis. My role involved implementing a linear regression model to predict future sales trends, and I integrated this model into a user-friendly interface that allowed users to easily upload and analyze datasets. This solution provided actionable insights for the company's sales strategy, making data-driven decision-making more accessible to users through a streamlined, intuitive platform.",
   },
